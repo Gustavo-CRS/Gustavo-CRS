@@ -2,7 +2,7 @@
 
 ## I'm Gustavo Consoleti 
 - I'm currently living in São Paulo, Brazil 
-- 💻I'm studying Computer Engineering at Instituto Mauá de Tecnologia 
+- 💻I'm an enthusiast in front end-devoloping
 - 💻I'm recently have been learning Java and Dart & Flutter
 
 ## Conect with me:
