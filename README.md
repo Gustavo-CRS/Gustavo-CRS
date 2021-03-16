@@ -7,8 +7,7 @@
 
 ## Conect with me:
 <a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
-<img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" style="max-width:100%;">
-
+<img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
 
 <!--
