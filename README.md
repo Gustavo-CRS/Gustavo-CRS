@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ##I'm Gustavo Consoleti 
-- 🇧🇷 I'm currently living in São Paulo, Brazil 🇧🇷
+- :brazil: I'm currently living in São Paulo, Brazil :brazil:
 - 💻I'm studying Computer Engineering in Instituto Mauá de Tecnologia 💻
 - 💻I'm recently have been learning more Java and Dart & Flutter💻
 
