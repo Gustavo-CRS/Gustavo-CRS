@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+##I'm Gustavo Consoleti 
+- 🇧🇷 I'm currently living in São Paulo, Brazil 🇧🇷
+- 💻I'm studying Computer Engineering in Instituto Mauá de Tecnologia 💻
+- 💻I'm recently have been learning more Java and Dart & Flutter💻
+
+##Conect with me:
+<a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
+<img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" 
+</a>
 
 <!--
 **Gustavo-CRS/Gustavo-CRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
