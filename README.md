@@ -7,8 +7,12 @@
 
 ## Conect with me:
 <a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
-<img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
+<img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
+<a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
+<img align="center" alt="gustavo-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">
+</a>
+
 
 <!--
 **Gustavo-CRS/Gustavo-CRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
