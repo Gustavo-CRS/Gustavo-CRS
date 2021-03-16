@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## I'm Gustavo Consoleti 
-- I'm currently living in São Paulo, Brazil 
+- I've been living in São Paulo, Brazil 
 - 💻I'm an enthusiast in front end-devoloping
 - 💻I'm recently have been learning Java and Dart & Flutter
 
