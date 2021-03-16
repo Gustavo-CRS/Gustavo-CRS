@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
 <img align="center" alt="gustavo-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-<a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
+<a href="https://www.facebook.com/gustavo.consoleti" target="_blank">
 <img align="center" alt="gustavo-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
 
