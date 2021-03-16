@@ -2,7 +2,7 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻I'm an enthusiast in front end-devoloping
+- 💻I'm an enthusiast in front-end development
 - 💻I'm recently have been learning Java and Dart & Flutter
 
 ## Conect with me:
