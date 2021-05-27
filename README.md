@@ -2,8 +2,10 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
+- I'm Cofounder at Mauá Dev Communnity
 - 💻I'm an enthusiast in front-end development
 - 💻I recently have been learning Java and Dart & Flutter
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavo-consoleti-9710071b5/" target="_blank">
