@@ -7,6 +7,8 @@
 
 
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-CRS&show_icons=true&theme=aura)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-CRS&layout=compact&theme=aura)]
+
 
 
 
