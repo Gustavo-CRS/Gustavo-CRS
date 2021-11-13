@@ -4,6 +4,8 @@
 - I've been living in São Paulo, Brazil 
 - 💻I'm an enthusiast in front-end development
 - 💻I recently have been learning Java and Dart & Flutter
+
+
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-CRS)](https://github.com/anuraghazra/github-readme-stats)
 
 
