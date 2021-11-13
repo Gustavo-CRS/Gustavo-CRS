@@ -6,7 +6,7 @@
 - 💻I recently have been learning Java and Dart & Flutter
 
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-CRS&show_icons=true&theme=midnight-purple)]
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-CRS&show_icons=true&theme=tokyonight)]
 
 
 
