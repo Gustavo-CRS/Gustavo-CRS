@@ -5,8 +5,8 @@
 - 💻I'm an enthusiast in front-end development
 - 💻I recently have been learning Java and Dart & Flutter
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+<div>
+  <a href="https://github.com/Gustavo-CRS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-CRS&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-CRS&layout=compact&langs_count=7&theme=aura"/>
 </div>
