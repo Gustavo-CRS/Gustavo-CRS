@@ -2,8 +2,9 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻I'm an enthusiast in front-end development
-- 💻I recently have been learning Java and Dart & Flutter
+- 💻Development Intern at Sovos Brasil
+- 💻Flutter and Java developer
+- 💻I recently have been learning JavaScript
 ##
 <div>
   <a href="https://github.com/Gustavo-CRS">
