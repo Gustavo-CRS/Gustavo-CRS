@@ -2,7 +2,7 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻Software at KBASE
+- 💻Software Developer at KBASE
 - 💻Flutter,Java and C# developer
 - 💻I recently have been learning JavaScript
 ##
