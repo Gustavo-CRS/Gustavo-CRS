@@ -2,8 +2,8 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻Development Intern at Sovos Brasil
-- 💻Flutter and Java developer
+- 💻Software at KBASE
+- 💻Flutter,Java and C# developer
 - 💻I recently have been learning JavaScript
 ##
 <div>
