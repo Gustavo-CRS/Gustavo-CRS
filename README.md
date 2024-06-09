@@ -2,7 +2,7 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻Data Scientist/ Machine Learn Engineer
+- 💻Data Scientist | Machine Learn Engineer
 - 💻Python, Machine Learning, and some mobile development with Flutter
 ##
 <div>
