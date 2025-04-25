@@ -2,7 +2,7 @@
 
 ## I'm Gustavo Consoleti 
 - I've been living in São Paulo, Brazil 
-- 💻Data Scientist | Data Engineer
+- 💻 Data Engineer at Permaneo
 ##
 <div>
   <a href="https://github.com/Gustavo-CRS">
